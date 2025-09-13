@@ -1,0 +1,6 @@
+# IDE/Code Editor
+.vs/
+.vscode/
+
+# Binary Outputs
+Binaries/
